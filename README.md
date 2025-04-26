@@ -14,9 +14,9 @@ Liv'in Paris est une application C# qui facilite le partage de repas faits maiso
 
 ### Modélisation du métro et des trajets
 
-- **`Noeud`** : représente une station de métro avec toutes ses informations (id, nom, ligne, coordonnées géographiques, commune, code postal, sens de circulation)&#8203;:contentReference[oaicite:0]{index=0}.
-- **`Lien`** : représente un lien (arc) entre deux stations de métro, avec la durée du trajet entre elles&#8203;:contentReference[oaicite:1]{index=1}.
-- **`Graph`** : construit le graphe complet du métro à partir de fichiers CSV, crée la matrice d’adjacence, gère les stations, les liens et implémente les algorithmes de chemin optimal (Dijkstra, Bellman-Ford, Floyd-Warshall), permet la visualisation graphique des trajets sur une carte&#8203;:contentReference[oaicite:2]{index=2}.
+- **`Noeud`** : représente une station de métro avec toutes ses informations (id, nom, ligne, coordonnées géographiques, commune, code postal, sens de circulation).
+- **`Lien`** : représente un lien (arc) entre deux stations de métro, avec la durée du trajet entre elles.
+- **`Graph`** : construit le graphe complet du métro à partir de fichiers CSV, crée la matrice d’adjacence, gère les stations, les liens et implémente les algorithmes de chemin optimal (Dijkstra, Bellman-Ford, Floyd-Warshall), permet la visualisation graphique des trajets sur une carte.
 
 ### Gestion des utilisateurs et rôles
 
