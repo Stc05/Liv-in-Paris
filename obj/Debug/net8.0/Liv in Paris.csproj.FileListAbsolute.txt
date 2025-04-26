@@ -48,3 +48,4 @@ C:\Users\Steven\Documents\GitHub\Liv-in-Paris\obj\Debug\net8.0\refint\Liv in Par
 C:\Users\Steven\Documents\GitHub\Liv-in-Paris\obj\Debug\net8.0\Liv in Paris.pdb
 C:\Users\Steven\Documents\GitHub\Liv-in-Paris\obj\Debug\net8.0\Liv in Paris.genruntimeconfig.cache
 C:\Users\Steven\Documents\GitHub\Liv-in-Paris\obj\Debug\net8.0\ref\Liv in Paris.dll
+C:\Users\Steven\Documents\GitHub\Liv-in-Paris\obj\Debug\net8.0\Liv in Paris.sourcelink.json

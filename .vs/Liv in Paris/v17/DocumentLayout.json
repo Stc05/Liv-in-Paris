@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Steven\\Documents\\GitHub\\Liv-in-Paris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14D2EF5E-A26B-4E69-A685-2C4BA6A06B51}|Liv in Paris.csproj|c:\\users\\steven\\documents\\github\\liv-in-paris\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14D2EF5E-A26B-4E69-A685-2C4BA6A06B51}|Liv in Paris.csproj|solutionrelative:authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD43B6BF-FC18-400F-A4B6-97EF2ED6BADC}|Testes unitaires\\Testes unitaires.csproj|c:\\users\\steven\\documents\\github\\liv-in-paris\\testes unitaires\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43B6BF-FC18-400F-A4B6-97EF2ED6BADC}|Testes unitaires\\Testes unitaires.csproj|solutionrelative:testes unitaires\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14D2EF5E-A26B-4E69-A685-2C4BA6A06B51}|Liv in Paris.csproj|c:\\users\\steven\\documents\\github\\liv-in-paris\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14D2EF5E-A26B-4E69-A685-2C4BA6A06B51}|Liv in Paris.csproj|solutionrelative:adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D2EF5E-A26B-4E69-A685-2C4BA6A06B51}|Liv in Paris.csproj|c:\\users\\steven\\documents\\github\\liv-in-paris\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D2EF5E-A26B-4E69-A685-2C4BA6A06B51}|Liv in Paris.csproj|solutionrelative:authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\Liv-in-Paris\\Testes unitaires\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Testes unitaires\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Liv-in-Paris\\Testes unitaires\\UnitTest1.cs",
+              "RelativeToolTip": "Testes unitaires\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBUAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:43:25.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\Liv-in-Paris\\AuthService.cs",
               "RelativeDocumentMoniker": "AuthService.cs",
               "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Liv-in-Paris\\AuthService.cs",
               "RelativeToolTip": "AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:23:57.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T10:23:57.35Z"
             },
             {
               "$type": "Document",
@@ -41,7 +57,7 @@
               "RelativeDocumentMoniker": "AdminService.cs",
               "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Liv-in-Paris\\AdminService.cs",
               "RelativeToolTip": "AdminService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T10:23:48.986Z",
               "EditorCaption": ""
