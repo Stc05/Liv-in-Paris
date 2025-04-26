@@ -30,6 +30,6 @@ Liv'in Paris est une application C# qui facilite le partage de repas faits maiso
 - **`CommandeService`** : gère la passation des commandes, calcule les trajets de livraison entre cuisinier et client, utilise les algorithmes de graphe pour optimiser les parcours, et enregistre le détail de chaque livraison (plat, quantité, station, date, etc.).
 - **`CuisinierService`** : fonctionnalités spécifiques pour les cuisiniers (ajout de plats, gestion des spécialités, etc.).
 
-###Gestion de l’application
+### Gestion de l’application
 
 - **`Program.cs`** : point d’entrée principal de l’application, gestion de l’interface console, interaction utilisateur (inscription, connexion, menus spécifiques selon le rôle).
