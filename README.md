@@ -20,17 +20,16 @@ Liv'in Paris est une application C# qui facilite le partage de repas faits maiso
 
 ### Gestion des utilisateurs et rôles
 
-- **`AuthService`** : gère l’inscription, la connexion, et la vérification du rôle de l’utilisateur (client, cuisinier, administrateur)&#8203;:contentReference[oaicite:3]{index=3}.
-- **`RoleService`** : permet à l'utilisateur de choisir son rôle lors de l'inscription ou de la connexion (client ou cuisinier)&#8203;:contentReference[oaicite:4]{index=4}.
-- **`AdminService`** : fonctionnalités avancées de gestion pour l’administrateur : suppression et modification d'utilisateurs, statistiques sur clients et commandes, gestion des livraisons, etc.&#8203;:contentReference[oaicite:5]{index=5}
+- **`AuthService`** : gère l’inscription, la connexion, et la vérification du rôle de l’utilisateur (client, cuisinier, administrateur).
+- **`RoleService`** : permet à l'utilisateur de choisir son rôle lors de l'inscription ou de la connexion (client ou cuisinier).
+- **`AdminService`** : fonctionnalités avancées de gestion pour l’administrateur : suppression et modification d'utilisateurs, statistiques sur clients et commandes, gestion des livraisons, etc.
 
 ### Gestion des plats et des commandes
 
-- **`PlatService`** : permet aux cuisiniers d’ajouter des plats et aux clients de filtrer et visualiser les plats disponibles selon différents critères (nationalité, type, station proche)&#8203;:contentReference[oaicite:6]{index=6}.
-- **`CommandeService`** : gère la passation des commandes, calcule les trajets de livraison entre cuisinier et client, utilise les algorithmes de graphe pour optimiser les parcours, et enregistre le détail de chaque livraison (plat, quantité, station, date, etc.)&#8203;:contentReference[oaicite:7]{index=7}.
-- **`CuisinierService`** : fonctionnalités spécifiques pour les cuisiniers (ajout de plats, gestion des spécialités, etc.)&#8203;:contentReference[oaicite:8]{index=8}.
+- **`PlatService`** : permet aux cuisiniers d’ajouter des plats et aux clients de filtrer et visualiser les plats disponibles selon différents critères (nationalité, type, station proche).
+- **`CommandeService`** : gère la passation des commandes, calcule les trajets de livraison entre cuisinier et client, utilise les algorithmes de graphe pour optimiser les parcours, et enregistre le détail de chaque livraison (plat, quantité, station, date, etc.).
+- **`CuisinierService`** : fonctionnalités spécifiques pour les cuisiniers (ajout de plats, gestion des spécialités, etc.).
 
 ###Gestion de l’application
 
-- **`Program.cs`** : point d’entrée principal de l’application, gestion de l’interface console, interaction utilisateur (inscription, connexion, menus spécifiques selon le rôle)&#8203;:contentReference[oaicite:9]{index=9}.
-
+- **`Program.cs`** : point d’entrée principal de l’application, gestion de l’interface console, interaction utilisateur (inscription, connexion, menus spécifiques selon le rôle).
